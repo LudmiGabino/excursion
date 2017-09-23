@@ -1,14 +1,13 @@
 html {
   background-color: black;
   text-align: center;
-  font-family: Verdana;
+  font-family: Verdana, serif, sans-serif;
   color: white;
 }
 
 h1 {
   font-weight: normal;
   font-size: 50px;
-  text-align: center;
 }
 
 h2 {
@@ -30,4 +29,3 @@ footer {
   color: grey;
   text-align: right;
 }
-
